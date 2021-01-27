@@ -1,0 +1,5 @@
+# Dependences
+node_modules/
+
+# Environement (Le truc ou ya les donnee sensible et les chose qui depende de lenvironement de rista)
+## .env
