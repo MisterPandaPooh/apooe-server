@@ -7,5 +7,5 @@ npm i express body-parser cors -s
 npm i dotenv -s
 npm i mongoose -s
 npm i helmet -s
-
+npm install @googlemaps/google-maps-services-js -s
 ```

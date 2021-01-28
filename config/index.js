@@ -12,6 +12,10 @@ const config = {
     databaseURL: process.env.DATABASE_URL,
     api: {
         prefix: '/api'
+    },
+
+    google: {
+        placeApiKey: process.env.GOOGLE_API_KEY,
     }
 }
 
